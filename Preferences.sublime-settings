@@ -46,7 +46,7 @@
     "script",
     "tmp"
   ],
-  "font_face": "Inconsolata-dz",
+  "font_face": "Consolas",
   "font_size": 13,
   "highlight_line": true,
   "highlight_modified_tabs": true,
